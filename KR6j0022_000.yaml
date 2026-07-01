@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0022/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大日如來劍印
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0864A.xml
+    old_id: T18n0864A
+hash: sha256:b2ebafd9d4732e5f4ffa2b094d83a2165d3ae2e6aba35c6f16700e49fb14fe1d
