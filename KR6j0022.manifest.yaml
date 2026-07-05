@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0022_000.yaml, hash: 'sha256:b2ebafd9d4732e5f4ffa2b094d83a2165d3ae2e6aba35c6f16700e49fb14fe1d'}
-  - {seq: 1, filename: KR6j0022_001.yaml, hash: 'sha256:2d159b02d8940dfd50d899c1313222c59521801e4b16a4a124eafa36daabf0fc'}
+  - {seq: 1, filename: KR6j0022_001.yaml, hash: 'sha256:b70e7ae157e4d6851489c542731a49a3867f3db42f001d5b040452504e944812'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0022_001.markers.yaml, hash: 'sha256:337eacd3509cbd392d80d7a48d267bcc10786f4dc06efd6104c76e3c4eaf9783'}
+  - {seq: 0, role: markers, filename: assets/KR6j0022_000.markers.yaml, hash: 'sha256:086efc09d5e4c36ddbf14165e042dfdd41bafe0281700e8831ccc3ca1b03ef61'}
+  - {seq: 1, role: markers, filename: assets/KR6j0022_001.markers.yaml, hash: 'sha256:b701091e6986012ca134e9573e783997b8d181063baed9e00db80dc7c2ae7dd9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 大日如來劍印
   type: juan
   level: 1
-hash: sha256:76df3234855bfb110cc287b3f388dde2357e82c41bf483ca0e47a550b61c27bc
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3c0a22e0dee634388a519592f6f307316ea6ccda40972f8eaf9865e9d5157836
