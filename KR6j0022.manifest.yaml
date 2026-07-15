@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0022/v1
 canonical_location: https://kanripo.org/bkk/KR6j0022/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大日如來劍印
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0022_000.yaml, hash: 'sha256:b2ebafd9d4732e5f4ffa2b094d83a2165d3ae2e6aba35c6f16700e49fb14fe1d'}
-  - {seq: 1, filename: KR6j0022_001.yaml, hash: 'sha256:b70e7ae157e4d6851489c542731a49a3867f3db42f001d5b040452504e944812'}
+  - {seq: 1, filename: KR6j0022_001.yaml, hash: 'sha256:9a83642bad4761d600c7988e7c31b0c2dc83b7d3adc3cbbcc5861711003ca3b4'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0022_000.markers.yaml, hash: 'sha256:086efc09d5e4c36ddbf14165e042dfdd41bafe0281700e8831ccc3ca1b03ef61'}
-  - {seq: 1, role: markers, filename: assets/KR6j0022_001.markers.yaml, hash: 'sha256:b701091e6986012ca134e9573e783997b8d181063baed9e00db80dc7c2ae7dd9'}
+  - {seq: 1, role: markers, filename: assets/KR6j0022_001.markers.yaml, hash: 'sha256:7b0b19e9a67f9f937216ae545359bdffcbf4e5f113da7a343ef181b38fb263ec'}
 table_of_contents:
 - ref:
     seq: 1
@@ -40,4 +40,7 @@ table_of_contents:
   label: 大日如來劍印
   type: juan
   level: 1
-hash: sha256:3c0a22e0dee634388a519592f6f307316ea6ccda40972f8eaf9865e9d5157836
+hash: sha256:0a79b593792aacf9b3c8816cd9929b0a5637b3c86172f5cff5a4fc169d3649f8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
